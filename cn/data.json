@@ -65,7 +65,7 @@
     ]
   },
   {
-    "category": "隐私",
+    "category": "隐私/安全",
     "lists": [
       {
         "name": "Grin",
@@ -75,6 +75,27 @@
           "web": "https://grin.mw/",
           "twitter": "https://twitter.com/grinmw",
           "github": "https://github.com/mimblewimble/grin"
+        }
+      },
+      {
+        "name": "Trail of Bits",
+        "img_url": "trailbit.jpeg",
+        "desc": "Deepening the Science of Security",
+        "contacts": {
+          "web": "https://www.trailofbits.com/",
+          "twitter": "https://twitter.com/trailofbits",
+          "github": "https://github.com/trailofbits"
+        }
+      },
+      {
+        "name": "PeckShield",
+        "img_url": "peckshield.jpg",
+        "desc": "业界领先的区块链安全公司",
+        "contacts": {
+          "web": "https://peckshield.cn/",
+          "twitter": "https://twitter.com/peckshield",
+          "telegram": "https://t.me/peckshield",
+          "github": "https://github.com/peckshield"
         }
       }
     ]
@@ -102,7 +123,7 @@
     ]
   },
   {
-    "category": "Lay2",
+    "category": "Layer2",
     "lists": [
       {
         "name": "MUTA",
@@ -141,6 +162,20 @@
         "contacts": {
           "twitter": "https://twitter.com/Lay2dev",
           "github": "https://github.com/lay2dev/pw-core"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Muta 生态公链",
+    "lists": [
+      {
+        "name": "火币公链",
+        "img_url": "huobi.png",
+        "desc": "为各类金融资产提供高性能服务",
+        "contacts": {
+          "web": "https://www.huobichain.com/",
+          "github": "https://github.com/HuobiGroup/huobi-chain/"
         }
       }
     ]
